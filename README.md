@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey, I am Ha 👋
 
 <!--
 **habom2310/habom2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am Ha Nguyen.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Gender: :boy:, birth year :dog:, holoscope :libra:
+- I’m currently PhD candidate at :mortar_board: Swinburne University of technology
+- Proficient in: Biomedical software application
+- Interest: :guitar:, :musical_note:, :book:
+- More about me at :link: https://khanhhanguyen.com/
