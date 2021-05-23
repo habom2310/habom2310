@@ -2,7 +2,7 @@
 
 - Gender: :boy:, birth year :dog:, holoscope :libra:
 - I’m currently PhD candidate at :mortar_board: Swinburne University of technology
-- Proficient in: Biomedical software application
+- Proficient in: Biomedical engineering
 - Interest: :guitar:, :musical_note:, :book:
 - More about me at :link: https://khanhhanguyen.com/
 
