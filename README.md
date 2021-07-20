@@ -7,4 +7,4 @@
 - More about me at :link: https://khanhhanguyen.com/
 
 
-![Ha's github stats](https://github-readme-stats.vercel.app/api?username=habom2310&show_icons=true)
+![Ha's github stats](https://github-readme-stats.vercel.app/api?username=habom2310&show_icons=true&include_all_commits=true&count_private=true)
